@@ -1,0 +1,11 @@
+{
+  "name": "neko",
+  "version": "1.0.0",
+  "description": "\u0016practice",
+  "main": "\u001b[D\u001b[D\u001b[D\u001bmain\u001b[B\u001b[\u001b[C\u001b[main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sannkaku",
+  "license": "ISC"
+}

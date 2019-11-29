@@ -1,0 +1,8 @@
+# Node packageges.
+node_modules/
+
+# Dist files.
+dist/
+
+# Log
+* .log
